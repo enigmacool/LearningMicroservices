@@ -1,6 +1,4 @@
 ---
-spring:
-  profiles: default
 lucky-word: region is DEFAULT
 ---
 spring:
