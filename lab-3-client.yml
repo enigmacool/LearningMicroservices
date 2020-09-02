@@ -1,8 +1,8 @@
 ---
-  spring:
-    profile: NA
-  lucky-word: region is NA
+spring:
+  profiles: NA
+lucky-word: region is NA
 ---
-  spring:
-    profile: APAC
-  lucky-word: region is APAC  
+spring:
+  profiles: APAC
+lucky-word: region is APAC  
